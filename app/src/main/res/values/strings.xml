@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MaterialApp</string>
+    <string-array name="app_demo_list">
+        <item>BottomAppBar</item>
+        <item>TopAppBar</item>
+        <item></item>
+        <item></item>
+        <item>Dialogs</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+
+    </string-array>
+</resources>
